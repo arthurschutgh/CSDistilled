@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSDistilled", "CSDistilled\CSDistilled.csproj", "{EBA3DAC5-E04F-47DE-A24F-F043E5E5F404}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum", "Maximum\Maximum.csproj", "{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{EBA3DAC5-E04F-47DE-A24F-F043E5E5F404}.Release|x64.Build.0 = Release|Any CPU
 		{EBA3DAC5-E04F-47DE-A24F-F043E5E5F404}.Release|x86.ActiveCfg = Release|Any CPU
 		{EBA3DAC5-E04F-47DE-A24F-F043E5E5F404}.Release|x86.Build.0 = Release|Any CPU
+		{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}.Debug|x64.Build.0 = Debug|Any CPU
+		{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}.Debug|x86.Build.0 = Debug|Any CPU
+		{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}.Release|x64.ActiveCfg = Release|Any CPU
+		{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}.Release|x64.Build.0 = Release|Any CPU
+		{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}.Release|x86.ActiveCfg = Release|Any CPU
+		{BE3DBEB1-319A-4F28-A5D3-BF592C4A4469}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
